@@ -16,7 +16,3 @@ func Barks()string{
 func BigBark()string{
 	return wolf.WhenGrownUps(Bark())
 }
-
-func Barking(){
-	return "The Dog is barking"
-}
